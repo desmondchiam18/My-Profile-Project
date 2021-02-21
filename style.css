@@ -1,0 +1,40 @@
+.nav-link,.navbar-brand{
+    color: white !important;
+}
+
+.rounded-circle{
+    width: 150px;
+    height: 170px;
+}
+
+.details-table{
+    border: 2px solid black;
+}
+
+.jumbotron{
+    margin-bottom: 0;
+}
+
+#about{
+    background-color: honeydew;
+    color: black;
+}
+
+#skills{
+    background-color: grey;
+    color: black;
+}
+
+#education{
+    background-color: lightblue;
+    color: black;
+}
+
+#awards{
+    background-color: gray;
+}
+
+#footer{
+    background-color: black;
+}
+
